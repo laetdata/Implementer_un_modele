@@ -7,3 +7,7 @@ L’entreprise souhaitait mettre en œuvre un outil de “scoring crédit” pou
 De plus, les chargés de relation client ont fait remonter le fait que les clients étaient de plus en plus demandeurs de transparence vis-à-vis des décisions d’octroi de crédit. Cette demande de transparence des clients allait tout à fait dans le sens des valeurs que l’entreprise voulait incarner.
 
 Prêt à dépenser avait donc décidé de développer un dashboard interactif pour que les chargés de relation client puissent à la fois expliquer de façon la plus transparente possible les décisions d’octroi de crédit, mais également permettre à leurs clients de disposer de leurs informations personnelles et de les explorer facilement.
+
+Le dashboard peut se voir à l'adresse suivante: https://youtu.be/eOQPU1Dt9Ao
+
+
